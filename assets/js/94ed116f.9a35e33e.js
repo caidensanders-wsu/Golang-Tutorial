@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_tutorial=self.webpackChunkgolang_tutorial||[]).push([[2097],{8366:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/golang-tutorial/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

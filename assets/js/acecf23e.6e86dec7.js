@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_tutorial=self.webpackChunkgolang_tutorial||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/golang-tutorial/blog","blogTitle":"Blog","authorsListPath":"/golang-tutorial/blog/authors"}')}}]);
